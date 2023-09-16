@@ -1,3 +1,11 @@
-h2{
-    color: blue;
+#mainTitle{
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    text-decoration-line: underline;
+    margin: 0px;
+    border-style: groove;
+}
+
+#phoneImage{
+    width: 25px;
 }
