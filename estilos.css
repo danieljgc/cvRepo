@@ -1,11 +1,54 @@
-#mainTitle{
+.mainTitle{
     font-family: 'Crimson Text', serif;
     text-align: center;
     text-decoration-line: underline;
     margin: 0px;
     border-style: groove;
+    background-color:rgb(169, 247, 247);
+}
+
+.profilePhoto{
+    text-align: center;
+}
+
+#myphoto{
+    width: 150px;
+}
+
+h2{
+    font-family: 'Signika', sans-serif;
+}
+
+p, span{
+    font-family: 'Quicksand', sans-serif;
+}
+
+li{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
+dd h3{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+
+.date{
+    background-color: yellow;
+    box-shadow: 3px 3px 5px grey; 
+    margin: 0%;
+    width: 180px;
+    text-align: center;
+    border-style:ridge;
+    border-color: black;
+    border-radius: 5px;
 }
 
 #phoneImage{
-    width: 25px;
+    width: 30px;
 }
+
+#emailImage{
+    width: 30px;
+}
+
